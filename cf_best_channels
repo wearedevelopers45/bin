@@ -1,0 +1,45 @@
+{"channels":[
+{"title":"Star sports 1",
+    "channelUrl":"http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8",
+    "category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
+    "channelLogo":"https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/07/02/starsports.jpg?itok=51Ue_t6l"},
+{"title":"Colors",
+    "channelUrl":"https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8",
+    "category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
+    "channelLogo":"http://redflixtv.me/uploads/tv_image/colors-tv.jpg"},
+  
+
+{"title":"SONY SET","channelUrl":"http://103.118.76.229:1935/tvprogram/SONY-HD/playlist.m3u8","category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
+      "channelLogo":"http://redflixtv.me/uploads/tv_image/sony-hd.jpg"}
+     ,{"title":"AAJ TAK",
+     "channelUrl":"https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_5/chunklist.m3u8",
+     "category":"sport",
+     "server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4",
+     "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTF7CUWV9hLn0m7v9iQ-fCa7bRQ5Xho6mfobSN6z0mf87cSmDGT"},
+
+{
+    "title":"Zee Tv",    
+    "channelUrl":"http://pockettv.xyz/api/zee.m3u8?c=zeetvhd",    
+    "category":"Entertainment",
+    "server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4",
+    "channelLogo":"https://pbs.twimg.com/profile_images/919648765811744768/ycdgPq0L_400x400.jpg"},
+   {
+    "title":"Movies Now",
+    "channelUrl":"https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
+    "category":"Kids",
+    "server":"tv.accedo.airtel.wynk/1.17.5 (Linux;Android 9) ExoPlayerLib/2.9.6","cover":"https://drive.google.com/uc?export=view&id=1fbFW2WhOyH3tOSWNSLjPBYGlFKJEQML8",
+    "channelLogo":"https://www.rdcablenet.com/wp-content/uploads/2019/01/MOVIES-NOW-HD.jpg"},
+   {
+    "title":"Delhi Aaj Tak",
+    "channelUrl":"https://sonyent.pc.cdn.bitgravity.com/sonyent/live/delhiaajtak.smil/chunklist_b900000.m3u8",
+    "category":"News",
+    "server":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer",
+    "channelLogo":"https://www.adgully.com/img/400/201806/dharna.jpg"},
+   {
+    "title":"& tv",        
+    "channelUrl":"http://pockettv.xyz/api/zee.m3u8?c=andtvhd",
+    "category":"kids",
+    "server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
+    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSBnQMUK1LWO753KpoZUZMe2jFMXqE_s9xMNqwNSLEujs1po0&s"}
+   ]
+}

@@ -1,0 +1,28 @@
+{
+  "categories":[
+    {"title":"Netflix"},
+    {"title":"Amazon"},
+    {"title":"Hotstar"},
+    {"title":"Punjabi"},
+    {"title":"Ullu"},
+    {"title":"DC"},
+    {"title":"Marvel"},
+    {"title":"Alt Balaji"},
+    {"title":"Action"},
+    {"title":"Adventure"},
+    {"title":"Animation"},
+    {"title":"Thriller"},
+    {"title":"Documentary"},
+    {"title":"Sci-Fi"},
+    {"title":"Comedy"},
+    {"title":"Family"},
+    {"title":"Horror"},
+    {"title":"Crime"},
+    {"title":"Biography"},
+    {"title":"Mystery"},
+    {"title":"Drama"},
+    {"title":"Romance"},
+    {"title":"Fantasy"},
+    {"title":"History"}
+  ]
+}
