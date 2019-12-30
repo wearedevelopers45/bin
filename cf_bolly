@@ -1,27 +1,5 @@
 {  
-   "records":[  
-   {"title":"Haider","genre":"Action, Crime, Drama","year":2014,"videoOne":2,"videoTwo":"http://dl.f2m.co/film/Haider.2014.720p.BluRay.Film2Movie_ORG.mkv","videoThree":"http://dl.f2m.co/film/Haider.2014.720p.BluRay.Film2Movie_ORG.mkv","info":"A young man returns to Kashmir after his father's disappearance to confront his uncle - the man he suspects of playing a role in his father's fate.","cover":"https://drive.google.com/uc?export=view&id=1cY1uNffBpmvN_JyLMOgrnHDyPsJlxotd"},{"title":"Student of the Year 2","genre":"Comedy, Drama, Romance","year":2019,"videoOne":2,"videoTwo":"http://dl13.f2m.co/film/Student.Of.The.Year.2.2019.720p.WEB-DL.x265.HEVC.Film2Movie_WS.mkv","videoThree":"http://dl13.f2m.co/film/Student.Of.The.Year.2.2019.720p.WEB-DL.x265.HEVC.Film2Movie_WS.mkv","info":"The biggest franchise of Bollywood returns with Student Of The Year 2 starring the incredible Tiger Shroff and introducing - Tara and Ananya. Friendship, sportsmanship, love, companionship - it's all in for the Student Of The Year.","cover":"https://m.media-amazon.com/images/M/MV5BZTRjYmMwMDQtYmU3Yi00YzI3LTk5ZjEtOTYxOGQxNWU0ZTE3XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_QL50_SY1000_SX750_AL_.jpg"},{"title":"Article 15","genre":"Crime, Drama, Thriller","year":2019,"videoOne":2,"videoTwo":"http://dl13.f2m.co/film/Article.15.2019.720p.WEB-DL.Film2Movie_WS.mkv","videoThree":"http://dl13.f2m.co/film/Article.15.2019.720p.WEB-DL.Film2Movie_WS.mkv","info":"Set against the backdrop of Badaun gangrape and murder case (2014), Anubhav Sinha's Article 15 is a thrilling investigative drama based on true events.","cover":"https://m.media-amazon.com/images/M/MV5BZTI2NTFiMDMtZjQxNS00YjBkLWFhNWMtOTIyMzE5Yjc0ZTZiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_CR0,0,692,1000_AL_.jpg"},
-     
-      {  
-         "title":"Saaho Hindi (Hd-Cam)",
-         "genre":"Action, Thriller",
-         "year":2019,
-         "videoOne":2,
-         "videoTwo":"https://firebasestorage.googleapis.com/v0/b/allmovienamefirst.appspot.com/o/top%2FSaaho%20(2019).mkv?alt=media&token=e45c2dd0-5218-4a5d-a1e9-8eca800374c5",
-         "videoThree":"https://firebasestorage.googleapis.com/v0/b/allmovienamefirst.appspot.com/o/top%2FSaaho%20(2019).mkv?alt=media&token=e45c2dd0-5218-4a5d-a1e9-8eca800374c5",
-         "info":"The Story is about a power battle which is taking place in the higher echelons of power unrelated and unconnected episodes occurring in different parts of the globe, Intertwine in an unforeseen manner to a revelation of mind games. The story delves the audience into the game of a brilliant master mind to reveal the true nature of all that are involved. It challenges the perceptions of who is the hunter and who is the hunted. It blends in a thrilling story with commercial elements of story telling to deliver a high octane action entertainer appealing to all segments of the audience.",
-         "cover":"http://t2.gstatic.com/images?q=tbn:ANd9GcS-bmpRnWM68JKlVga0AO0KOkBTl56_TW1v77enNdP7LOS2NZ6v"
-      },
-      {  
-         "title":"Mission Mangal",
-         "genre":"Drama, History",
-         "year":2019,
-         "videoOne":2,
-         "videoTwo":"https://firebasestorage.googleapis.com/v0/b/alldata-51697.appspot.com/o/new%2FMission%20Mangal%20(2019).mp4?alt=media&token=0b8991e9-4fee-4fd9-a038-926a4c4c0074",
-         "videoThree":"https://firebasestorage.googleapis.com/v0/b/alldata-51697.appspot.com/o/new%2FMission%20Mangal%20(2019).mp4?alt=media&token=0b8991e9-4fee-4fd9-a038-926a4c4c0074",
-         "info":"Based on true events of the Indian Space Research Organisation (ISRO) successfully launching the Mars Orbiter Mission (Mangalyaan), making it the least expensive mission to Mars.",
-         "cover":"https://m.media-amazon.com/images/M/MV5BZDE0Njg5MzMtZDkwYi00NmFhLTljODEtOWNmNTIxMTc4NzE2XkEyXkFqcGdeQXVyNTg3MzExNTA@._V1_QL50_SY1000_CR0,0,562,1000_AL_.jpg"
-      },
+   "records":[ 
       {  
          "title":"Chhichhore",
          "genre":"Comedy, Drama",
@@ -32,16 +10,6 @@
          "info":"Following a group of friends from university as they progress into middle-age life and go their own separate ways.",
          "cover":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Chhichhore_Poster.jpg/220px-Chhichhore_Poster.jpg"
       },
-      {  
-         "title":"Batla House",
-         "genre":"Action, Drama, Thriller",
-         "year":2019,
-         "videoOne":2,
-         "videoTwo":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mp4550485.mp4",
-         "videoThree":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mp4550485.mp4",
-         "info":"After a deadly encounter, a police officer works to prove that the police acted lawfully.",
-         "cover":"https://pbs.twimg.com/media/EAx-Y7gU0AAXDpu.jpg"
-      },
      {  
          "title":"Pati Patni Aur Woh",
          "genre":"Comedy, Romance",
@@ -51,6 +19,18 @@
          "videoThree":"http://51.15.181.87/Bollywood%20Movies/Acetvapk.%20Com%20-%20Pati%20Patni%20Aur%20Woh%20%282019%29%20Hindi%20480p%20PreDVD%20Rip%20x264%20AAC%20700MB%20Exclusive.mp4",
          "info":"Chintu Tyagi is an ordinary, middle class man who finds himself torn between his wife and another woman.",
          "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRZyiPuYBHict9GLkQeiuh55iGXnodxHdNGnNYaeJ23dM8-h6X"
-      }
+      },
+       {"title":"Mardaani 2","genre":"Action, Crime, Drama","year":2019,"videoOne":2,"videoTwo":"https://firebasestorage.googleapis.com/v0/b/clear-chain-244922.appspot.com/o/bollywood%2FMaadarni%202%2FMardaani%202%20(2019)%20720p%20PreDVD%20Rip%20x264%20AAC%201.2GB%20HDmovieshub%20Exclusive.mkv?alt=media&token=8189c021-ebaa-413a-9d83-5d7632c56289","videoThree":"https://firebasestorage.googleapis.com/v0/b/clear-chain-244922.appspot.com/o/bollywood%2FMaadarni%202%2FMardaani%202%20(2019)%20720p%20PreDVD%20Rip%20x264%20AAC%201.2GB%20HDmovieshub%20Exclusive.mkv?alt=media&token=8189c021-ebaa-413a-9d83-5d7632c56289","info":"A story of Shivani Shivaji Roy, Crime Branch, who sets out to confront the mastermind behind a child trafficking mafia.","cover":"https://m.media-amazon.com/images/M/MV5BNWZhYTc4M2ItNDc3NS00NjIxLWEzNWMtZWIyNDgzMmUwZWM3XkEyXkFqcGdeQXVyMTkzOTcxOTg@._V1_.jpg"},
+        {"title":"War HD","genre":"Action, Thriller","year":2019,"videoOne":2,"videoTwo":"https://dl.dropboxusercontent.com/s/95whejblb1i5mwd/Moviestimeapp.com%20War.mkv","videoThree":"https://dl.dropboxusercontent.com/s/95whejblb1i5mwd/Moviestimeapp.com%20War.mkv","info":"The film follows an Indian soldier who is assigned to eliminate his former mentor, who had gone rogue. Contact Whatsapp 8882647713","cover":"https://m.media-amazon.com/images/M/MV5BNTlmNDMzOWQtYzg4Ny00OWQ0LWFhN2MtNmQ2MDczZGZhNTU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_CR0,0,730,1000_AL_.jpg"},
+      {"title":"Housefull 4 HD","genre":"Fantasy, Drama","year":2019,"videoOne":2,"videoTwo":"https://ptvdown.top/api/db/media.php?vw6ic63jhuqtid1/Pocket%20TV%20-%20Housefull%204%20%282019%29%20720p%20HDRip%20Hindi%20x264%20Esubs.mkv","videoThree":"https://ptvdown.top/api/db/media.php?vw6ic63jhuqtid1/Pocket%20TV%20-%20Housefull%204%20%282019%29%20720p%20HDRip%20Hindi%20x264%20Esubs.mkv","info":"Three pairs of reincarnated lovers reunite in the present day -- but the men wind up falling for the wrong women.","cover":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Housefull_4_poster.jpg/220px-Housefull_4_poster.jpg"},
+       {"title":"Dabangg 3","genre":"Fantasy, Drama","year":2019,"videoOne":2,"videoTwo":"https://ptvdown.top/api/db/media.php?upwmknbdqfqd9fw/Pocket%20TV%20-%20Dabangg%203%20%282019%29%20Hindi%20AAC%20700MB%20x264.mkv","videoThree":"https://ptvdown.top/api/db/media.php?upwmknbdqfqd9fw/Pocket%20TV%20-%20Dabangg%203%20%282019%29%20Hindi%20AAC%20700MB%20x264.mkv","info":"India's most badass and lovable cop Chulbul Robinhood Pandey is back with 'Dabangg 3'.","cover":"https://www.boxofficeinsights.com/wp-content/uploads/2019/11/Dabangg-3-Film-Poster-6.jpg"},
+     {"title":"Good Newwz",
+      "genre":"Comedy",
+      "year":2019,
+      "videoOne":2,
+      "videoTwo":"https://firebasestorage.googleapis.com/v0/b/clear-chain-244922.appspot.com/o/bollywood%2FGOOD%20newz%2FGood%20Newwz%20(2019)%20Hindi%20720p%20PreDVD%20Rip%20x264%20AAC%201.2GB%20HDmovieshub.pw.mkv?alt=media&token=976d2762-3cb2-4b80-a1da-1b2d33fd16ea",
+      "videoThree":"https://firebasestorage.googleapis.com/v0/b/clear-chain-244922.appspot.com/o/bollywood%2FGOOD%20newz%2FGood%20Newwz%20(2019)%20Hindi%20720p%20PreDVD%20Rip%20x264%20AAC%201.2GB%20HDmovieshub.pw.mkv?alt=media&token=976d2762-3cb2-4b80-a1da-1b2d33fd16ea",
+      "info":"Two couples with the same surnames pursue in-vitro fertilization and wait for their upcoming babies. Trouble ensues when they find that the sperms of each couple have been mixed with each other.",
+      "cover":"https://m.media-amazon.com/images/M/MV5BNWQzNGQxY2YtNWZjOC00MGU4LTgzNTUtODliOGQzYTkxYzM1XkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_.jpg"}
    ]
 }
