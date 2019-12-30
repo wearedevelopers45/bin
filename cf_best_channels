@@ -1,4 +1,10 @@
 {"channels":[
+
+{"title":"Bigg Boss Latest Episode",
+    "channelUrl":"https://vootlivelinear.akamaized.net/hls/live/2008467/VootBBH13/master_1848.m3u8",
+    "category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
+    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFmIhey0KcbLVCehyE6OoLfyLrBASfUHngHZhd4GI-5CqQPUPJ"},
+
 {"title":"Star sports 1",
     "channelUrl":"http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8",
     "category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
