@@ -73,7 +73,7 @@
 	 "episodes":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv584850.mkv",
 	 "cover":"https://gumlet.assettype.com/freepressjournal%2F2019-10%2Fd3ff0c81-cbdb-40ad-9960-460ce48b8592%2F72300567_395045634755799_7885250395746585873_n.jpg?w=1000",
 	 "type":"movie"},
-  {"title":"Ind Vs Aus","genre":"Crime","year":2019,"season":13,"imdb":"NA","info":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/1.2 (Linux;Android 10) ExoPlayerLib/2.7.3",
+  {"title":"Ind Vs Aus 1st ODI","genre":"Crime","year":2019,"season":13,"imdb":"NA","info":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/1.2 (Linux;Android 10) ExoPlayerLib/2.7.3",
 	 "episodes":"https://live15p.hotstar.com/hls/live/2004204/indvsaus2020/eng/15mindvr1440006159hkygfzs9et14january2020/master_2.m3u8",
 	 "cover":"https://indjobhub.com/wp-content/uploads/2019/09/India-Vs-Australia-Series.jpg",
 	 "type":"live"}]}
