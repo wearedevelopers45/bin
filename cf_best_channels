@@ -5,17 +5,13 @@
     "category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
     "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFmIhey0KcbLVCehyE6OoLfyLrBASfUHngHZhd4GI-5CqQPUPJ"},
 
-{"title":"India Vs New Zealand 1st T20",
-    "channelUrl":"http://live12p.hotstar.com/hls/live/2003702/nzvsind2020/hin/fulldvr1440006264pxrzmzwj8r24january2020/master_4.m3u8|Cookie=hdntl=exp=1579935849~acl=%2f*~data=hdntl~hmac=fd152a0dde6bc944e58f97eeed4c347e364e6dce64b18580e3026e6ba94b5299",
-    "category":"ent","server":"Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.1",
-    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS51HTQC8mD2OOmBnSKqJbztUR2uFAD43DgMwWxZ8cvHJxjQ7Zm"},
 {"title":"Colors",
     "channelUrl":"https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8",
     "category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
     "channelLogo":"http://redflixtv.me/uploads/tv_image/colors-tv.jpg"},
   
 
-{"title":"SONY SET","channelUrl":"http://103.118.76.229:1935/tvprogram/SONY-HD/playlist.m3u8","category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
+{"title":"SONY SET","channelUrl":"https://sony247channels.akamaized.net/hls/live/2009800/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15","category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
       "channelLogo":"http://redflixtv.me/uploads/tv_image/sony-hd.jpg"}
      ,{"title":"AAJ TAK",
      "channelUrl":"https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_5/chunklist.m3u8",
@@ -25,7 +21,7 @@
 
 {
     "title":"Zee Tv",    
-    "channelUrl":"http://pockettv.xyz/api/zee.m3u8?c=zeetvhd",    
+    "channelUrl":"http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8",    
     "category":"Entertainment",
     "server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4",
     "channelLogo":"https://pbs.twimg.com/profile_images/919648765811744768/ycdgPq0L_400x400.jpg"},
@@ -43,7 +39,7 @@
     "channelLogo":"https://www.adgully.com/img/400/201806/dharna.jpg"},
    {
     "title":"& tv",        
-    "channelUrl":"http://pockettv.xyz/api/zee.m3u8?c=andtvhd",
+    "channelUrl":"http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8",
     "category":"kids",
     "server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
     "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSBnQMUK1LWO753KpoZUZMe2jFMXqE_s9xMNqwNSLEujs1po0&s"}
