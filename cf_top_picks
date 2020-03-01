@@ -34,6 +34,6 @@
         "cover":"https://m.media-amazon.com/images/M/MV5BYmI2N2YzZDAtMDZmNi00MGQ1LWExZDYtYjVhNGE5NTkzMTc5XkEyXkFqcGdeQXVyODExNTExMTM@._V1_QL50_SY1000_SX1500_AL_.jpg",
 	"type":"series"},
          {"title":"Hacked","genre":"Crime","year":2019,"season":13,"imdb":"NA","info":"The winning team of LUST STORIES unite to tell some spine - chilling tales. Ghost Stories is an upcoming 2020 Indian anthology horror film, consisting of four short film segments directed by Karan Johar, Dibakar Banerjee, Zoya Akhtar and Anurag Kashyap. It serves a sequel to the 2013 and 2018 films.",
-	 "episodes":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv662231.mkv",
+	 "episodes":"https://miloto.s3.us-east-2.amazonaws.com/movies/Hacked+(2020)+2406.mkv",
 	 "cover":"https://i1.wp.com/image.tmdb.org/t/p/w500/tIIQ7Mpz5fv6207wCK3RQoLzPvC.jpg",
 	 "type":"movie"}]}
