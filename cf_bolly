@@ -1,47 +1,27 @@
 {  
    "records":[ 
-      {  
-         "title":"Chhichhore",
-         "genre":"Comedy, Drama",
-         "year":2019,
-         "videoOne":2,
-         "videoTwo":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mp4596650.mp4",
-         "videoThree":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mp4596650.mp4",
-         "info":"Following a group of friends from university as they progress into middle-age life and go their own separate ways.",
-         "cover":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Chhichhore_Poster.jpg/220px-Chhichhore_Poster.jpg"
-      },
-     {  
-         "title":"Pati Patni Aur Woh",
-         "genre":"Comedy, Romance",
-         "year":2019,
-         "videoOne":2,
-         "videoTwo":"http://51.15.181.87/Bollywood%20Movies/Acetvapk.%20Com%20-%20Pati%20Patni%20Aur%20Woh%20%282019%29%20Hindi%20480p%20PreDVD%20Rip%20x264%20AAC%20700MB%20Exclusive.mp4",
-         "videoThree":"http://51.15.181.87/Bollywood%20Movies/Acetvapk.%20Com%20-%20Pati%20Patni%20Aur%20Woh%20%282019%29%20Hindi%20480p%20PreDVD%20Rip%20x264%20AAC%20700MB%20Exclusive.mp4",
-         "info":"Chintu Tyagi is an ordinary, middle class man who finds himself torn between his wife and another woman.",
-         "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRZyiPuYBHict9GLkQeiuh55iGXnodxHdNGnNYaeJ23dM8-h6X"
-      },
-       {"title":"Mardaani 2","genre":"Action, Crime, Drama","year":2019,"videoOne":2,"videoTwo":"https://firebasestorage.googleapis.com/v0/b/clear-chain-244922.appspot.com/o/bollywood%2FMaadarni%202%2FMardaani%202%20(2019)%20720p%20PreDVD%20Rip%20x264%20AAC%201.2GB%20HDmovieshub%20Exclusive.mkv?alt=media&token=8189c021-ebaa-413a-9d83-5d7632c56289","videoThree":"https://firebasestorage.googleapis.com/v0/b/clear-chain-244922.appspot.com/o/bollywood%2FMaadarni%202%2FMardaani%202%20(2019)%20720p%20PreDVD%20Rip%20x264%20AAC%201.2GB%20HDmovieshub%20Exclusive.mkv?alt=media&token=8189c021-ebaa-413a-9d83-5d7632c56289","info":"A story of Shivani Shivaji Roy, Crime Branch, who sets out to confront the mastermind behind a child trafficking mafia.","cover":"https://m.media-amazon.com/images/M/MV5BNWZhYTc4M2ItNDc3NS00NjIxLWEzNWMtZWIyNDgzMmUwZWM3XkEyXkFqcGdeQXVyMTkzOTcxOTg@._V1_.jpg"},
-        {"title":"War HD","genre":"Action, Thriller","year":2019,"videoOne":2,"videoTwo":"https://dl.dropboxusercontent.com/s/95whejblb1i5mwd/Moviestimeapp.com%20War.mkv","videoThree":"https://dl.dropboxusercontent.com/s/95whejblb1i5mwd/Moviestimeapp.com%20War.mkv","info":"The film follows an Indian soldier who is assigned to eliminate his former mentor, who had gone rogue. Contact Whatsapp 8882647713","cover":"https://m.media-amazon.com/images/M/MV5BNTlmNDMzOWQtYzg4Ny00OWQ0LWFhN2MtNmQ2MDczZGZhNTU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_CR0,0,730,1000_AL_.jpg"},
-      {"title":"Housefull 4 HD","genre":"Fantasy, Drama","year":2019,"videoOne":2,"videoTwo":"https://ptvdown.top/api/db/media.php?vw6ic63jhuqtid1/Pocket%20TV%20-%20Housefull%204%20%282019%29%20720p%20HDRip%20Hindi%20x264%20Esubs.mkv","videoThree":"https://ptvdown.top/api/db/media.php?vw6ic63jhuqtid1/Pocket%20TV%20-%20Housefull%204%20%282019%29%20720p%20HDRip%20Hindi%20x264%20Esubs.mkv","info":"Three pairs of reincarnated lovers reunite in the present day -- but the men wind up falling for the wrong women.","cover":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Housefull_4_poster.jpg/220px-Housefull_4_poster.jpg"},
-       {"title":"Dabangg 3","genre":"Fantasy, Drama","year":2019,"videoOne":2,"videoTwo":"https://ptvdown.top/api/db/media.php?upwmknbdqfqd9fw/Pocket%20TV%20-%20Dabangg%203%20%282019%29%20Hindi%20AAC%20700MB%20x264.mkv","videoThree":"https://ptvdown.top/api/db/media.php?upwmknbdqfqd9fw/Pocket%20TV%20-%20Dabangg%203%20%282019%29%20Hindi%20AAC%20700MB%20x264.mkv","info":"India's most badass and lovable cop Chulbul Robinhood Pandey is back with 'Dabangg 3'.","cover":"https://www.boxofficeinsights.com/wp-content/uploads/2019/11/Dabangg-3-Film-Poster-6.jpg"},
-     {"title":"Good Newwz",
-      "genre":"Comedy",
-      "year":2019,
-      "videoOne":2,
-      "videoTwo":"https://firebasestorage.googleapis.com/v0/b/clear-chain-244922.appspot.com/o/bollywood%2FGOOD%20newz%2FGood%20Newwz%20(2019)%20Hindi%20720p%20PreDVD%20Rip%20x264%20AAC%201.2GB%20HDmovieshub.pw.mkv?alt=media&token=976d2762-3cb2-4b80-a1da-1b2d33fd16ea",
-      "videoThree":"https://firebasestorage.googleapis.com/v0/b/clear-chain-244922.appspot.com/o/bollywood%2FGOOD%20newz%2FGood%20Newwz%20(2019)%20Hindi%20720p%20PreDVD%20Rip%20x264%20AAC%201.2GB%20HDmovieshub.pw.mkv?alt=media&token=976d2762-3cb2-4b80-a1da-1b2d33fd16ea",
-      "info":"Two couples with the same surnames pursue in-vitro fertilization and wait for their upcoming babies. Trouble ensues when they find that the sperms of each couple have been mixed with each other.",
-      "cover":"https://m.media-amazon.com/images/M/MV5BNWQzNGQxY2YtNWZjOC00MGU4LTgzNTUtODliOGQzYTkxYzM1XkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_.jpg"},
-
-      {  
-         "title":"Ghost Stories",
-         "genre":"Horror, Netflix",
-         "year":2020,
-         "videoOne":2,
-         "videoTwo":"https://firebasestorage.googleapis.com/v0/b/braided-trees-246513.appspot.com/o/0201%2FGhost.Stories.2020.Hindi.720p.WEB-DL.Dual-Audio.x264HDmovieroot.com.mkv?alt=media&token=b885aca8-00ad-4a58-9953-343f66522d1d",
-         "videoThree":"https://firebasestorage.googleapis.com/v0/b/braided-trees-246513.appspot.com/o/0201%2FGhost.Stories.2020.Hindi.720p.WEB-DL.Dual-Audio.x264HDmovieroot.com.mkv?alt=media&token=b885aca8-00ad-4a58-9953-343f66522d1d",
-         "info":"The winning team of LUST STORIES unite to tell some spine - chilling tales. Ghost Stories is an upcoming 2020 Indian anthology horror film, consisting of four short film segments directed by Karan Johar, Dibakar Banerjee, Zoya Akhtar and Anurag Kashyap. It serves a sequel to the 2013 and 2018 films - Bombay Talkies and Lust Stories respectively.",
-         "cover":"https://occ-0-299-300.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABd8ESPZDy1dhAJsRvEuhUcUH_U71u5RFdP1P8SThyDckAH7kgyz9sRfFgjmb0FePgflX9lg7_kqSp3Es_coDFfkl9_i2Lht20grknBKQ8hchCtVYBmgffaCdGr9Suw.jpg"
-      }
+{
+	"title":"Ankhon Dekhi",
+	"genre":"Comedy, Drama",
+	"year":2013,
+	"videoOne":2,
+	"videoTwo":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv241882.mkv",
+	"videoThree":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv241882.mkv",
+	"info":"Ankhon Dekhi centers around Raje Bauji, played by Sanjay Mishra who, after a dramatic incident, decides that he will only believe what he sees with his eyes.",
+	"cover":"https://m.media-amazon.com/images/M/MV5BMTY4YjY3ZDgtYjVhZS00MWY4LTlkYmMtNGI4ZGY4YzhiZmIwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_CR0,0,692,1000_AL_.jpg"
+},
+{
+	"title":"The Lunchbox",
+	"genre":"Drama, Romance",
+	"year":2013,
+	"videoOne":2,
+	"videoTwo":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv191714.mkv",
+	"videoThree":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv191714.mkv",
+	"info":"A mistaken delivery in Mumbai's famously efficient lunchbox delivery system connects a young housewife to an older man in the dusk of his life as they build a fantasy world together through notes in the lunchbox.",
+	"cover":"https://m.media-amazon.com/images/M/MV5BMTUwMzc1NjIzMV5BMl5BanBnXkFtZTgwODUyMTIxMTE@._V1_QL50_SY1000_CR0,0,679,1000_AL_.jpg"
+}
+,{"title":"Bala HD","genre":"Comedy ","year":2019,"videoOne":2,"videoTwo":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mp4579230.mp4","videoThree":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mp4579230.mp4","info":"It tells the story of a man who is balding prematurely and how he copes up with the situation.","cover":"https://m.media-amazon.com/images/M/MV5BZmM4YWNjODItZTliOS00M2Y2LTk5ZjgtMDVhMDBiMTlkYTNjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_CR0,0,642,1000_AL_.jpg"},
+{"title":"Andhadhun","genre":"Drama,comedy","year":2018,"videoOne":2,"videoTwo":"https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/mkv534780.mkv","videoThree":"https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/mkv534780.mkv","info":"Akash, a piano player pretending to be visually-impaired, unwittingly becomes entangled in a number of problems as he witnesses the murder of a former film actor.","cover":"https://m.media-amazon.com/images/M/MV5BZWZhMjhhZmYtOTIzOC00MGYzLWI1OGYtM2ZkN2IxNTI4ZWI3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg"},{"title":"Street dancer 3D HD","genre":"Drama,comedy","year":2020,"videoOne":2,"videoTwo":"https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FStreet%20Dancer%203D%20%2FHDMovieshub.cc%20-%20Street%20Dancer%203D%20720p%201.5GB.mkv?alt=media&token=452beb04-ef96-4d2d-890c-da5480300123","videoThree":"https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FStreet%20Dancer%203D%20%2FHDMovieshub.cc%20-%20Street%20Dancer%203D%20720p%201.5GB.mkv?alt=media&token=452beb04-ef96-4d2d-890c-da5480300123","info":"A dance epic based on the multifarious colors of dance and the unity that occurs between two different groups coming together for a single cause. Set in London, the film is about 2 rival dance groups from India and Pakistan, who've been competing against each other every time they meet.","cover":"https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Street-Dancer-App-poster-608x800-d1ffbded-1cd8-4888-871e-8c67df52dc4b.jpg"},
+{"title":"Angreji Medium HD","genre":"Drama","year":2020,"videoOne":2,"videoTwo":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv606717.mkv","videoThree":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv606717.mkv","info":"Champak, an unassuming mithai shop owner and single father is set to fulfil his daughter's dream to study in London. However, certain misadventures lead him and his family on a new quest, one which renews their relationships and bonds.","cover":"https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Angrezi_Medium_film_poster.jpg/220px-Angrezi_Medium_film_poster.jpg"},{"title":"Guilty","genre":"Netflix","year":2020,"videoOne":2,"videoTwo":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv675592.mkv","videoThree":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv675592.mkv","info":"Guilty is an Indian Hindi-language drama film directed by Ruchi Narain and written by Narain, Kanika Dhillon and Atika Chohan. Starring Kiara Advani and several others, the film follows the story of a songwriter whose boyfriend is accused of rape.","cover":"https://pbs.twimg.com/media/ESagZ0CUYAEiD3L.jpg"}
    ]
 }

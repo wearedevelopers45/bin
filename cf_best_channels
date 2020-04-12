@@ -1,19 +1,6 @@
 {"channels":[
 
-{"title":"Bigg Boss Latest Episode",
-    "channelUrl":"https://vootlivelinear.akamaized.net/hls/live/2008467/VootBBH13/master_1848.m3u8",
-    "category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
-    "channelLogo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFmIhey0KcbLVCehyE6OoLfyLrBASfUHngHZhd4GI-5CqQPUPJ"},
-
-{"title":"Colors",
-    "channelUrl":"https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8",
-    "category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
-    "channelLogo":"http://redflixtv.me/uploads/tv_image/colors-tv.jpg"},
-  
-
-{"title":"SONY SET","channelUrl":"https://sony247channels.akamaized.net/hls/live/2009800/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15","category":"ent","server":"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36/2.5 (Linux;Android 9) ExoPlayerLib/2.7.3",
-      "channelLogo":"http://redflixtv.me/uploads/tv_image/sony-hd.jpg"}
-     ,{"title":"AAJ TAK",
+{"title":"AAJ TAK",
      "channelUrl":"https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_5/chunklist.m3u8",
      "category":"sport",
      "server":"Mozilla/5.0 (Mobile; LYF/F90M/LYF-F90M-000-02-17-270917; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.0/10.3.5 (Linux;Android 9) ExoPlayerLib/2.10.4",
