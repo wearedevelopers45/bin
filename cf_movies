@@ -171,4 +171,13 @@
 	"videoThree":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv661671.mkv",
 	"info":"Shikara is the story of resilience in the face of insurmountable odds. It's also the story of a love that remains unextinguished through 30 years of exile. A timeless love story in the worst of times.",
 	"cover":"https://popdiaries.com/wp-content/uploads/2020/01/Shikara-3.jpeg"
+},{
+	"title":"Extraction Dual",
+	"genre":"Action,Netflix",
+	"year":2020,
+	"videoOne":1,
+	"videoTwo":"https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/mkv545609.mkv",
+	"videoThree":"https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/mkv545609.mkv",
+	"info":"A hardened mercenary's mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.",
+	"cover":"https://i.ytimg.com/vi/L6P3nI6VnlY/maxresdefault.jpg"
 }]}
