@@ -1,5 +1,5 @@
-{  
-   "records":[  
+{
+   "records":[
 
 {
 	"title":"The Turning",
@@ -51,6 +51,6 @@
 
 {"title":"1917","genre":"Drama, War","year":2019,"videoOne":1,"videoTwo":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mp4530915.mp4","videoThree":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mp4530915.mp4",
 "info":"April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.","cover":"https://cdn.cinematerial.com/p/297x/haeorwgk/1917-british-movie-poster-md.jpg"
-}
+},{"title":"Mrs. Serial Killer","genre":"Action, Drama, Netflix","year":2020,"videoOne":2,"videoTwo":"https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/mkv601807.mkv","videoThree":"https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/mkv601807.mkv","info":"When a doctor gets jailed for a string of shocking murders, his loyal wife sets out to commit a copycat crime to prove his innocence.","cover":"https://upload.wikimedia.org/wikipedia/en/a/a7/Mrs._Serial_Killer_poster.jpg"},{"title":"Baaghi 3 HD","genre":"Action","year":2020,"videoOne":2,"videoTwo":"https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/mkv594669.mkv","videoThree":"https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/mkv594669.mkv","info":"Ronnie and Vikram are brothers who share an unbreakable bond. Since childhood, Ronnie always comes to the rescue whenever Vikram falls in any trouble. Their journey begins when a certain turn in events, leads Vikram to travel abroad to complete some work. On this trip, Vikram gets kidnapped","cover":"https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/article_images/2020/03/05/Baaghi1-1583400738.jpg?itok=0MJHzKTr"},{"title":"Thappad HD","genre":"Drama","year":2020,"videoOne":2,"videoTwo":"https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/mkv668435.mkv","videoThree":"https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/mkv668435.mkv","info":"A woman reevaluates her marriage after her husband slaps her in the face in front of a group of people at a party.","cover":"https://m.media-amazon.com/images/M/MV5BNjYyOGM4NmUtOWI0My00Y2E4LWE2MjItNzdhZGIwZmI1ODI0XkEyXkFqcGdeQXVyOTkxMjQxNjc@._V1_.jpg"}
    ]
 }
