@@ -37,15 +37,7 @@
 	"episodes":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Panchayat/Panchayat.S01E01.mkv$https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Panchayat/Panchayat.S01E02.mkv$https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Panchayat/Panchayat.S01E03.mkv$https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Panchayat/Panchayat.S01E04.mkv$https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Panchayat/Panchayat.S01E05.mkv$https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Panchayat/Panchayat.S01E06.mkv$https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Panchayat/Panchayat.S01E07.mkv$https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Panchayat/Panchayat.S01E08.mkv$",
 	"cover":"https://image.tmdb.org/t/p/original/pFCiUmWcT3FrkTrvLJLbRYVl50X.jpg"
 },{"title":"The Mandalorian","genre":"Action, Adventure, Sci-Fi, Disney+","year":2019,"season":1,"imdb":9.5,"info":"The travails of a lone gunfighter in the outer reaches of the galaxy, far from the authority of the New Republic.","episodes":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Unbelievable/Unbelievable.S01E01.mkv$https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Unbelievable/Unbelievable.S01E02.mkv$https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Unbelievable/Unbelievable.S01E03.mkv$https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Unbelievable/Unbelievable.S01E04.mkv$https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Unbelievable/Unbelievable.S01E05.mkv$https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Unbelievable/Unbelievable.S01E06.mkv$https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Unbelievable/Unbelievable.S01E07.mkv$https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/Unbelievable/Unbelievable.S01E08.mkv$","cover":"https://miro.medium.com/max/1200/0*RJbogusGqQtkrcqK.jpg"},
-{	"title":"Hundred",
-	"genre":"Drama, Hotstar",
-	"year":2020,
-	"season":"1(complete)",
-	"imdb":6.3,
-	"info":"Two women with different demons and life expectations cross paths only to make a quirky team. With their dreams at stake and the clock ticking away, will this roller-coaster ride get them what they want?",
-	"episodes":"https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/Hundred/Hundred.S01E01-08.mkvS01E01.mkv",
-	"cover":"https://i.ytimg.com/vi/-7pnNb0Qxyw/maxresdefault.jpg"
-},{	"title":"Never Have I Ever",
+{	"title":"Never Have I Ever",
 	"genre":"Comedy, Netflix",
 	"year":2020,
 	"season":"1",
