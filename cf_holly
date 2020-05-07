@@ -80,6 +80,15 @@
 	"videoThree":"https://storage.googleapis.com/staging.booming-rush-220604.appspot.com/tv_show/mkv545609.mkv",
 	"info":"A hardened mercenary's mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.",
 	"cover":"https://miro.medium.com/max/675/1*ouqCuc7u58LD4mVIIl2MMA.jpeg"
+},{
+"title":"Pokémon: Mewtwo Strikes Back - Evolution",
+"genre":"Animation, Action, Family, Netflix",
+"year":2020,
+"videoOne":1,
+"videoTwo":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv571891.mkv",
+"videoThree":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv571891.mkv",
+"info":" After a scientific experiment leads to the creation of a clone of Mewtwo, he sets out to destroy the world. Ash and his friends then decide to thwart Mewtwo's evil plans.",
+"cover":"https://m.media-amazon.com/images/M/MV5BZTg4MDZkYWUtNDQwYS00NjI3LTgzMjctMGZmNmE1NTJiOGM3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR113,0,630,1200_AL_.jpg"
 }
 
 ]}
