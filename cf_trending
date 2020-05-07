@@ -69,6 +69,15 @@
 "videoThree":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv571891.mkv",
 "info":" After a scientific experiment leads to the creation of a clone of Mewtwo, he sets out to destroy the world. Ash and his friends then decide to thwart Mewtwo's evil plans.",
 "cover":"https://m.media-amazon.com/images/M/MV5BZTg4MDZkYWUtNDQwYS00NjI3LTgzMjctMGZmNmE1NTJiOGM3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR113,0,630,1200_AL_.jpg"
+},{
+	"title":"Sonic the Hedgehog",
+	"genre":"Action, Adventure, Comedy, Animation",
+	"year":2020,
+	"videoOne":1,
+	"videoTwo":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv454626.mkv",
+	"videoThree":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv454626.mkv",
+	"info":"After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.",
+	"cover":"https://www.nerdly.co.uk/wp-content/uploads/2020/04/Sonic-Hedgehog-poster.jpg"
 }
    ]
 }
