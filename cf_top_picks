@@ -93,13 +93,16 @@
 			"episodes": "https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mkv571891.mkv",
 			"cover": "https://i.ytimg.com/vi/c2edLO4GxGs/maxresdefault.jpg",
 			"type": "movie"
-		},{"title":"Panga",
-				"genre":"Drama,sports",
-				"year":2020,
-				"videoOne":2,
-				"videoTwo":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mp4656007.mp4",
-				"videoThree":"https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mp4656007.mp4",
-				"info":"Panga is inspired from the life of a national level Kabbadi player from India. It follows her triumphs, struggle and overcoming of stereotypes and reflecting upon the importance of love and family support in order to become successful.",
-				"cover":"https://www.comingtrailer.com/images/poster/Panga2.jpg"}
+		},{
+			"title": "Panga",
+			"genre": "Comedy, Netflix",
+			"year": 2020,
+			"season": "1 ",
+			"imdb": 8.1,
+			"info": "",
+			"episodes": "https://storage.googleapis.com/staging.linen-patrol-193403.appspot.com/tv_show/mp4656007.mp4",
+			"cover": "https://www.comingtrailer.com/images/poster/Panga2.jpg",
+			"type": "movie"
+		}
 	]
 }
